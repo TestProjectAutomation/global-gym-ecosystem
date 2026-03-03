@@ -1,0 +1,114 @@
+// database/seed/languages.json
+[{
+        "code": "en",
+        "name": "English",
+        "native_name": "English",
+        "direction": "ltr",
+        "is_active": true,
+        "is_fallback": true
+    },
+    {
+        "code": "ar",
+        "name": "Arabic",
+        "native_name": "العربية",
+        "direction": "rtl",
+        "is_active": true,
+        "is_fallback": false
+    },
+    {
+        "code": "es",
+        "name": "Spanish",
+        "native_name": "Español",
+        "direction": "ltr",
+        "is_active": true,
+        "is_fallback": false
+    },
+    {
+        "code": "fr",
+        "name": "French",
+        "native_name": "Français",
+        "direction": "ltr",
+        "is_active": true,
+        "is_fallback": false
+    },
+    {
+        "code": "de",
+        "name": "German",
+        "native_name": "Deutsch",
+        "direction": "ltr",
+        "is_active": true,
+        "is_fallback": false
+    },
+    {
+        "code": "zh",
+        "name": "Chinese",
+        "native_name": "中文",
+        "direction": "ltr",
+        "is_active": true,
+        "is_fallback": false
+    },
+    {
+        "code": "hi",
+        "name": "Hindi",
+        "native_name": "हिन्दी",
+        "direction": "ltr",
+        "is_active": true,
+        "is_fallback": false
+    },
+    {
+        "code": "ru",
+        "name": "Russian",
+        "native_name": "Русский",
+        "direction": "ltr",
+        "is_active": true,
+        "is_fallback": false
+    },
+    {
+        "code": "pt",
+        "name": "Portuguese",
+        "native_name": "Português",
+        "direction": "ltr",
+        "is_active": true,
+        "is_fallback": false
+    },
+    {
+        "code": "ja",
+        "name": "Japanese",
+        "native_name": "日本語",
+        "direction": "ltr",
+        "is_active": true,
+        "is_fallback": false
+    },
+    {
+        "code": "tr",
+        "name": "Turkish",
+        "native_name": "Türkçe",
+        "direction": "ltr",
+        "is_active": true,
+        "is_fallback": false
+    },
+    {
+        "code": "ur",
+        "name": "Urdu",
+        "native_name": "اردو",
+        "direction": "rtl",
+        "is_active": true,
+        "is_fallback": false
+    },
+    {
+        "code": "fa",
+        "name": "Persian",
+        "native_name": "فارسی",
+        "direction": "rtl",
+        "is_active": true,
+        "is_fallback": false
+    },
+    {
+        "code": "he",
+        "name": "Hebrew",
+        "native_name": "עברית",
+        "direction": "rtl",
+        "is_active": true,
+        "is_fallback": false
+    }
+]

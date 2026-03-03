@@ -1,0 +1,32 @@
+// web-dashboard/package.json
+{
+    "name": "gym-ecosystem-web",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.11.2",
+        "@mui/material": "^5.13.4",
+        "@mui/icons-material": "^5.11.16",
+        "@emotion/react": "^11.11.1",
+        "@emotion/styled": "^11.11.0",
+        "axios": "^1.4.0",
+        "socket.io-client": "^4.6.1",
+        "recharts": "^2.7.2",
+        "moment": "^2.29.4",
+        "moment-hijri": "^2.1.2"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "devDependencies": {
+        "react-scripts": "5.0.1",
+        "@types/react": "^18.2.7",
+        "@types/react-dom": "^18.2.4",
+        "typescript": "^5.0.4"
+    }
+}
